@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    padding: 20px;
+}
+h1{ 
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
